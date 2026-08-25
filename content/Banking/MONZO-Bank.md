@@ -1,3 +1,6 @@
+---
+title: 英国MONZO银行注册手把手图文教程
+---
 几乎90%云居民玩英国银行卡的人都是从这个银行开始的！
 
 Monzo银行注册相对简单，无需信用记录，然后利用它来产生信用记录，这样就能为其他银行和金融方面的业务积累信用了！
@@ -9,7 +12,7 @@ Monzo银行注册相对简单，无需信用记录，然后利用它来产生信
 4. 最重要的：可收信的英国真实地址
 
 下面开始注册，用手机操作即可。
-连接好我的英国eSIM流量后，打开网站https://join.monzo.com/c/wp696ztv，输入手机号码![image](https://img.nitama.de/obsidian/2026/08/dbbc7bdcc132c47b2ec3d433a058df12.jpeg)
+连接好我的英国eSIM流量后，打开网站：[[https://join.monzo.com/c/wp696ztv]]，输入手机号码![image](https://img.nitama.de/obsidian/2026/08/dbbc7bdcc132c47b2ec3d433a058df12.jpeg)
 
 跳转到商店下载Monzo的app！打开app，选择我是新来Monzo的![image](https://img.nitama.de/obsidian/2026/08/df5ef6734a1fd722dcad51ffe77d185c.jpeg)输入注册邮箱![image](https://img.nitama.de/obsidian/2026/08/54bc1ef9ab2c00140d3922184e289468.jpeg)
 
