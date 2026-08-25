@@ -1,13 +1,14 @@
 ---
 title: 云居民的博客
 ---
+---
+title: 云居民的博客
+---
 
-很高兴在这里与大家获得联系。
+这里记录出海路上用得到的工具——eSIM流量、境外号码保号、银行卡U卡、稳定网络方案，以及各种踩坑心得。
 
-这里主要是分享一些出海的教程和一些心得。
-主站可移步：[https://yunjumin.de](https://yunjumin.de/)
+产品对比和优惠码整理在 [主站](https://yunjumin.de)，教程和实测记录放在这里。
 
+从左侧目录开始看，或者用搜索框找你需要的内容。
 
-
-我的推特：[https://x.com/jaylenngx](https://x.com/jaylenngx)  
-我的电报：[https://t.me/jaylenngx](https://t.me/jaylenngx)
+想了解我，可以看 [[about|关于我]]。
