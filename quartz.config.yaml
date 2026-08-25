@@ -4,8 +4,6 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
   locale: en-US
   baseUrl: blog.yunjumin.de
   ignorePatterns:
@@ -16,9 +14,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Noto Serif SC
+      body: Noto Sans SC
+      code: JetBrains Mono
     colors:
       lightMode:
         light: "#faf8f8"
@@ -163,7 +161,7 @@ plugins:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -230,8 +228,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        主站: https://yunjumin.de
+        Telegram: https://t.me/jaylenngx
     layout:
       position: footer
       priority: 50
