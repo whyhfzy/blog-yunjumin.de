@@ -228,6 +228,7 @@ plugins:
     enabled: true
     options:
       links:
+        关于我: https://blog.yunjumin.de/about
         主站: https://yunjumin.de
         Telegram: https://t.me/jaylenngx
     layout:
