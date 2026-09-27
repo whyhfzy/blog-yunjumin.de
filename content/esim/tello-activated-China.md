@@ -1,13 +1,5 @@
 ---
-title: "9.30截止，不用去美国！欧洲IP轻松激活Tello美国号。WiFi Calling、国际漫游、靓号转入教程，附踩坑实录！        MD"
-source: "https://x.com/jaylenngx/status/2103542089233641909"
-author:
-  - "[[@jaylenngx]]"
-published: 2026-09-26
-created: 2026-09-27
-description: "Tello在美国电话卡的知名度不用我赘述了，它是全功能电话卡，支持接打全球电话，收发全球短信，支持美国流量全球漫游。然后基础套餐5~8刀每月，对出海的人来说是真不算高。然后说说它在中国历来的表现。阶段一：它在大陆地区也是支持全功能的，只是对大陆用户不友好的一点是喜欢砍单，这与大陆..."
-tags:
-  - "clippings"
+title: "9.30截止，不用去美国！欧洲IP轻松激活Tello美国号。WiFi Calling、国际漫游、靓号转入教程，附踩坑实录！        "
 ---
 ![图像](https://pbs.twimg.com/media/HTFEsrKa4AAbRI-?format=jpg&name=large)
 
