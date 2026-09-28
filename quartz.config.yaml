@@ -157,6 +157,12 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      folderDefaultState: collapsed
+      useSavedState: false
+    layout:
+      position: left
+      priority: 50
     layout:
       position: left
       priority: 50

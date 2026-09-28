@@ -1,0 +1,144 @@
+---
+title: "9.30截止，不用去美国！欧洲IP轻松激活Tello美国号。WiFi Calling、国际漫游、靓号转入教程，附踩坑实录！        "
+---
+![图像](https://pbs.twimg.com/media/HTFEsrKa4AAbRI-?format=jpg&name=large)
+
+Tello在美国电话卡的知名度不用我赘述了，它是**全功能电话卡，支持接打全球电话，收发全球短信，支持美国流量全球漫游**。然后基础套餐5~8刀每月，对出海的人来说是真不算高。
+
+然后说说它在中国历来的表现。
+
+阶段一：它在大陆地区也是支持全功能的，只是对大陆用户不友好的一点是喜欢砍单，这与大陆IP和支付方式应该有很大的关系。这个阶段一持续的时间其实很长，我刚开始做外贸时用过一个月，但那时我嫌贵后面就没续费了。
+
+阶段二：也就是从今年上半年某个时间开始，平台突然就明确了首次必须在美国境内连接美国基站激活了才能去其他国家使用。这对出海的人算是一个“噩耗”，毕竟很多人都是“云出海”，很大一部分人都是在国内做出海业务，真正肉身去美国的占比其实是很小一部分的，加上现在去美国的签证难度也在增加，所以激活Tello就成了一门新生意了。很多有条件在美国的人开始收费代激活。 但是代激活这种方式风险很大，有的人可能就用同一部手机给很多人激活很多个号码，那么这些号码就会有很大概率被风控。
+
+阶段三：缘起Tello做了一个活动，2026年9.30日之前可以在欧洲激活它的漫游功能及WiFi calling。而这个激活不需要连基站，只需要欧洲IP即可（当然这个后面会不会秋后算账谁都不好说）。
+
+![图像](https://pbs.twimg.com/media/HTFC3ktacAAhyuZ?format=jpg&name=large)
+
+截止日期时间已经不多了，我把我操作的过程写出来分享给大家，把遇到的坑也分享给大家，免得操作失败还损失美刀。
+
+我的这篇教程和其他博主的教程相比，有一个新增的部分，就是我把我 Talkatone 里面的一个靓号转入了我的 Tello 号码。我会把这一部分加进来，大家如果也有相同需求的话，可以参照一下我的这个流程。
+
+首先，在操作 Tello 之前，我需要先联系 Talkatone 那边，让他们同意我转出我的靓号。需要他们给到我一个 port out 的pin码。这个过程可能会涉及到两到三封来往邮件。
+
+我们在 Talkatone 的 App 里面找到 Contact Us，然后在里面输入我们的需求，告诉他们：我需要将我的号码携号转网到其他的运营商。这个大家可以找一个翻译软件把它翻译出来。
+
+对方收到你的邮件后，会先回复一封接收处理的邮件。大概到第二封或者第三封邮件的时候，就会把转网的port out的pin码发给你。
+
+![图像](https://pbs.twimg.com/media/HTFC4p0bIAAkTQi?format=jpg&name=large)
+
+## 下面开始注册并购买Tello套餐。
+
+注册我建议大家挂欧洲节点或干脆就用手机的欧洲漫游流量来注册。
+
+**大家可以在手机或者是电脑的浏览器里面通过这样一个邀请链接来注册：**[https://tello.com/account/register?\_referral=P3NQ8502](https://tello.com/account/register?_referral=P3NQ8502)
+
+**因为通过邀请链接注册的话，邀请的双方都可以获得 10 美元的奖励。而不通过邀请链接的话，就没有这个奖励。**
+
+直接用我们的谷歌邮箱或者苹果账号注册就可以，然后填写基本信息。
+
+这个基本信息不需要填真实信息，用你的昵称或者其他的都可以。但邮箱一定要真实，密码必须是你能够记得住的。**邀请码填入：P3NQ8502**
+
+![图像](https://pbs.twimg.com/media/HTFC56LaAAEGji6?format=jpg&name=large)
+
+接下来我们选择 plans
+
+![图像](https://pbs.twimg.com/media/HTFC7CGbQAAzpS7?format=jpg&name=large)
+
+首先，一定要按照我这个图所示的，选中“No Data ，300 分钟 ，5 刀/月”的这个套餐
+
+接下来的步骤是选择一个新号码。大家可以看一下下图，下面有一行蓝色小字，提示如果有其他美国号码想转入也可以。
+
+但打开说明就会发现：我们必须先用一个新号码激活 Tello 的套餐，之后才能将你的其他美国旧号码转入进来。
+
+所以在激活之前，可以先忽略旧号码转入，这个操作后面再弄完全没问题。
+
+然后，我们需要输入一个美国真实的邮编，这样来匹配我们的一个美国地址。大家可以在谷歌地图搜索一个实际的地址，输入这个邮编，然后再点这个 Check Zip去填写地址信息以及结算价格。
+
+![图像](https://pbs.twimg.com/media/HTFC9fWboAAzazP?format=jpg&name=large)
+
+这里我们一定要选 eSIM，而不能选实体的 SIM 卡，因为你的地址如果不真实的话，你根本无法收到这张实体卡。这里我说一下，大家尽量用一个支持原生 eSIM 的手机来写入这张天路卡（Tello）。
+
+有部分人反映，用其他第三方的 eSIM 写入卡可能会有问题。当然不是说一定有问题，反正有这样的案例，所以说我这边建议大家，用支持原生 eSIM 的手机来操作最好。
+
+接下来就是填入我们的地址信息。这里面有一个电话号码需要填，但这个电话号码可以是真实的，也可以随便填，不会对我们后面的操作有任何影响。我这边填了一个我的真实的 Google Voice 号码。
+
+然后开始结算，选择你的支付方式。这里我选择用 Apple Pay 里面的[Mexc 这张卡](https://x.com/jaylenngx/status/2098233679910953248?s=20)来支付，总金额是 8.53 美金。
+
+费用是由以下几个方面构成的：
+
+• eSIM 卡费：3 美金
+
+• 套餐费：5 美金
+
+• 税费：0.53 美金
+
+这些费用总体构成了 8.53 美金！
+
+![图像](https://pbs.twimg.com/media/HTFDyoXbEAA8RqJ?format=jpg&name=large)
+
+支付成功之后会提示，然后我们也会收到支付成功的邮件。我们通过邮件里面的 My Sim 进去，可以找到我们的 eSIM 二维码信息；或者通过我们注册的这个页面，点击 My Tello 进去，也可以找到我们的 eSIM 二维码信息。
+
+**拿到二维码就到了最关键的激活步骤了，这里就要特别注意了，不然有很大概率失败，找客服客服会拒绝解决的。**
+
+这里我遇到的坑必须给大家讲一下，免得有人也会遇到。我是用手机浏览器注册的，用的Redteago那个全球流量的那个套餐流量，IP是英国原生IP，在tello也是认定其属于欧洲IP可以激活的。
+
+![图像](https://pbs.twimg.com/media/HTFDCrvaYAAXYSe?format=jpg&name=large)
+
+但在这里我犯了一个错误，我没有仔细按要求去操作，我没有连接WiFi，而是直接就用了redteago的这个eSIM卡的数据流量。
+
+当我用我的美版苹果去扫完这个二维码之后，Tello的eSIM开始写入我的手机，但是不幸也就发生在这个写入过程中。因为一部手机同时只支持一个eSIM，当我的 Tello 的 eSIM 写入手机时，我的 Redteago 的 eSIM 就会自动断开，这个断开发生的时候，其实我的Tello的eSIM是还没有完全成功写入手机的。 也就是说这个过程中有一个极短暂的过程，断网了。这就直接导致了我的第一张 Tello 的卡写入失败。
+
+我联系了客服，客服的答复是这张卡必须第一次在美国激活才能使用。我告诉他我在英国，他的答复同样还是必须在美国第一次激活后才能使用。当然，他们的态度很不错，他们告诉我，如果我现在不能或不想使用，他们可以给我全额退款。
+
+**第一张Tello的卡，我就只能这样放弃了！当然，第一张卡我放弃了，但这个事情我可绝不会放弃。**
+
+短暂休息5分钟之后，我开始奋战第二张Tello的卡。因为我明白第一张卡失败的地方，所以第二张卡操作过程相当快并且丝滑。我有几部手机，我用另一部手机的 Redteago流量开了热点，用需要写入 tello eSIM 的这部手机的WiFi 连接这个热点，再去操作，直接就成功写入了手机。
+
+**接下来，我们进入很多人都比较关心的一个Wifi Calling 的开通过程。**
+
+我们先不要在手机上去打开这个 WiFi 管理，我们从官网找到 My Settings，进去找到WiFi Calling，首次是显示一个感叹号，我们点击后面的edit，在谷歌地图搜一个真实地址填入911地址并保存。
+
+然后再到手机蜂窝网络里去打开WiFi Calling'，不需要再填写，确认并保存，看到绿色的 Address saved，表示地址已保存，即WiFi Calling功能成功开通了。
+
+![图像](https://pbs.twimg.com/media/HTFDD52aAAAgfTx?format=jpg&name=large)
+
+检验WiFi calling 是否开通：连接WiFi，下拉看看顶部状态栏是否显示WiFi Calling的状态，显示则成功了。
+
+![图像](https://pbs.twimg.com/media/HTFDFKda0AAWKU0?format=jpg&name=large)
+
+最后一个大家很关心的就是Tello国际漫游流量的开通，步骤如下： 打开网址：[https://tello.com/buy/payasyou\_go](https://tello.com/buy/payasyou_go)，选最低档20美元的套餐，购买。
+
+再次进入My Settings，把**International Roaming**的按钮拨到**on**的一栏即可。
+
+![图像](https://pbs.twimg.com/media/HTFDLmZbcAAq-lR?format=jpg&name=large)
+
+我的情况是这一轮下来就接到了短信，如果你的信号一直没来或者没收到短信，可以把飞行模式来回切换几次再看看。
+
+![图像](https://pbs.twimg.com/media/HTFDM7QboAAE6ns?format=jpg&name=large)
+
+我用它的流量测了一下，全绿，纯净度质量没得说。基本想干啥干啥！
+
+![图像](https://pbs.twimg.com/media/HTFDONnacAAWBxx?format=jpg&name=large)
+
+## 接着就是把talkatone的号码转入
+
+我们点击网址：[https://tello.com/account/number\_transfer](https://tello.com/account/number_transfer)
+
+![图像](https://pbs.twimg.com/media/HTFDjh1bIAAqKAP?format=jpg&name=large)
+
+输入我们想转入的talkatone号码，check，显示对勾表示可以转入。
+
+接下来输入相关信息，包含上一任运营商，Port in的pin码，姓名和地址等信息。
+
+![图像](https://pbs.twimg.com/media/HTFDct2aIAAbH-i?format=jpg&name=large)
+
+无误后提交即可，等一段时间后，再重启一下设备，就可以看到手机蜂窝网络里显示的号码变成了我的Talkatone的靓号了。
+
+至此，教程结束。当然这个利用欧洲IP激活Tello的活动时间也就两三天了，需要的赶紧操作，操作熟练的话其实也就十来分钟的事儿。
+
+**如果你想获得10美元话费，就大胆用我的邀请链接吧：** [https://tello.com/account/register?\_referral=P3NQ8502](https://tello.com/account/register?_referral=P3NQ8502)
+
+**邀请码：P3NQ8502**
+
+关于文中提到的Redteago，大家可以参考我以前的文章：[国内最安全合法免翻墙即可使用推特等海外平台及ChatGPT和Claude等各种AI的方案](https://x.com/jaylenngx/status/2031529482344071262?s=20)
