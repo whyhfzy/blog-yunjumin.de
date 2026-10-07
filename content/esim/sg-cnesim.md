@@ -1,3 +1,7 @@
+---
+title: 无需Singpass，大陆就能轻松激活的新加坡漫游eSIM，干净便宜，社媒、AI随便造
+---
+
 今天的这个平台各种全球旅游类产品超多，使人眼花缭乱：[https://asimple.link/kkday](https://www.kkday.com/zh-cn/home/index2?cid=27275)
 
 而**我们重点说的是这款eSIM：选29RMB一个月的套餐，亚太区（含中国大陆）可用新加坡的漫游流量15G！选136RMB的套餐，亚太区（含中国大陆）可用的新加坡漫游流量高达95G！**
